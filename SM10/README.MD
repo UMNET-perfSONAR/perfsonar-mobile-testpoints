@@ -1,3 +1,3 @@
 README.MD
 
-<img src="SM10.jpg" alt="drawing" width="512"/>
+<img src="sticker.jpg" alt="drawing" width="512"/>
