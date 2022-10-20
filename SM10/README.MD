@@ -1,3 +1,3 @@
 README.MD
 
-![Drag Racing](sticker.jpg)
+![Drag Racing](SM10.jpg)
