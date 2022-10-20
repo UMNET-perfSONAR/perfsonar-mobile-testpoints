@@ -4,3 +4,4 @@ https://docs.google.com/spreadsheets/d/1Vc2hv-esrzdcLmnb8P4PwONJg5gYoUfiqqdqfpNk
 
 flowcode.com/p/p8KPyaeGF?fc=0
 
+<img src="umich-perfsonar-mobile-testing.png" alt="drawing" width="512"/>
