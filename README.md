@@ -1,4 +1,4 @@
-<img src="github-UMNet-perfsonar-mobile-testpoints.png" alt="drawing" width="128"/>
+<img src="github-umnet-perfsonar-mobile-testpoints.png" alt="drawing" width="128"/>
 
 # perfsonar-mobile-testpoints
 
