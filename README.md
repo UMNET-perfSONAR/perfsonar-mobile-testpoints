@@ -1,5 +1,3 @@
-<img src="github-umnet-perfsonar-mobile-testpoints.png" alt="drawing" width="128"/>
-
 # perfsonar-mobile-testpoints
 
 [Mobile Nodes Inventory & Configuration Information](https://docs.google.com/spreadsheets/d/1Vc2hv-esrzdcLmnb8P4PwONJg5gYoUfiqqdqfpNk68w/edit#gid=1244150512)
@@ -10,3 +8,5 @@
 
 
 [MAC Address Information](https://docs.google.com/spreadsheets/d/1oAQGvXPUDgLgI6YGvzLgFUjodX5lPotkMwzOojqjODw/edit#gid=1332050743)
+
+<img src="github-umnet-perfsonar-mobile-testpoints.png" alt="drawing" width="128"/>
