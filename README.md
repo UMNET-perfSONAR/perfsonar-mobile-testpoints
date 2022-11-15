@@ -6,6 +6,6 @@
 
 [Mobile Test Network Information](https://docs.google.com/spreadsheets/d/1oAQGvXPUDgLgI6YGvzLgFUjodX5lPotkMwzOojqjODw/edit#gid=527194913)
 
-<img src="SM_ports.png" alt="drawing" width="128"/>
+<img src="SM_ports.png" alt="drawing" width="512"/>
 
 <img src="github-umnet-perfsonar-mobile-testpoints.png" alt="drawing" width="128"/>
