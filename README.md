@@ -1,6 +1,6 @@
 # perfsonar-mobile-testpoints
 
-<perfsonar-mobile-testing@umich.edu>
+Email: <perfsonar-mobile-testing@umich.edu>
 
 [Mobile Nodes Inventory & Configuration Information](https://docs.google.com/spreadsheets/d/1Vc2hv-esrzdcLmnb8P4PwONJg5gYoUfiqqdqfpNk68w/edit#gid=1244150512)
 
