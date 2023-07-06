@@ -10,4 +10,6 @@ Email: <perfsonar-mobile-testing@umich.edu>
 
 <img src="SM_ports.png" alt="drawing" width="512"/>
 
+<img src="E300-8D_optics" alt="drawing" width="512"/>
+
 <img src="github-umnet-perfsonar-mobile-testpoints.png" alt="drawing" width="128"/>
